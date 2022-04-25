@@ -1,5 +1,5 @@
-- <h2>👋 Hi, I’m Juan
-- 📚 I'm an Avionics Technician student
+- <h2>👋 Hi, I’m Juan Montilla
+- 📚 I'm an Avionics Technician student (4°2°)
 - 🌱 I’m currently learning C and Python
 
   [Instagram](https://www.instagram.com/montillajuanignacio) [Steam](https://steamcommunity.com/tradeoffer/new/?partner=1134591279&token=0LO4642s)
