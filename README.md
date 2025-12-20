@@ -22,9 +22,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
 </div>
