@@ -1,38 +1,23 @@
-<table width="100%">
-  <tr>
-    <td align="left" width="25%">
-      <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="100%" alt="left gif" />
-    </td>
-    <td align="center" width="50%">
-      <h1>Hi 👋, I'm Juan</h1>
-      <h3>A curious student and passionate programmer from Argentina 🇦🇷</h3>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-      </p>
-    </td>
-    <td align="right" width="25%">
-      <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="100%" alt="right gif" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" alt="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="50" height="50" alt="Arduino" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="50" height="50" alt="LaTeX" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50" height="50" alt="Dart" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase" />
-</p>
+  <p>
+    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="220" alt="gif 1" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="220" alt="gif 2" />
+  </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
-</p>
+  <h1>Hi 👋, I'm Juan</h1>
+  <h3>A curious student and passionate programmer from Argentina 🇦🇷</h3>
 
-<br>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </p>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=cpp,c,arduino,latex,flutter,dart,firebase,py,git,linux&perline=7" alt="Tech stack" />
+  </p>
+
+</div>
 
 <p align="right">
   <img alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
